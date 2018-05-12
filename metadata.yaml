@@ -1,0 +1,37 @@
+_repo: The-Spell-of-the-Rockies_42042
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42042-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Mills, Enos A.
+    alias: Mills, Enos Abijah
+    birthdate: 1870
+    deathdate: 1922
+    gutenberg_agent_id: '33404'
+    url: http://www.gutenberg.org/2009/agents/33404
+    wikipedia: http://en.wikipedia.org/wiki/Enos_Mills
+description: ''
+gutenberg_issued: '2013-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42042'
+  lccn: '11029625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rocky Mountains'
+- !lcc 'F721'
+- !lcsh 'Natural history -- West (U.S.)'
+- !lcsh 'Colorado -- Description and travel'
+tableOfContents: Racing an avalanche -- Little conservationists -- Harvest time with
+  beavers -- Mountain-top weather -- Rob of the Rockies -- Sierra Blanca -- The wealth
+  of the woods -- The forest fire -- Insects in the forest -- Dr. Woodpecker, tree-surgeon
+  -- Little boy grizzly -- Alone with a landslide -- The maker of scenery and soil
+  -- A rainy day at the stream's source -- The fate of a tree seed -- In a mountain
+  blizzard -- A midget in fur -- The Estes Park region.
+title: The Spell of the Rockies
+url: http://www.gutenberg.org/ebooks/42042
